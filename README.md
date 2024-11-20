@@ -18,9 +18,8 @@ Bem-vindo ao **Game Detona Ralph**! Neste repositório, você encontrará um jog
 
 ### Como Jogar
 
-1. Clone este repositório para sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador web.
-3. Divirta-se!
+1. Clique [nesse link](https://kitsunecozy.github.io/detona-ralph-game/)
+2. Divirta-se!
 
 ### Contribuição
 
